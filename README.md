@@ -4,7 +4,7 @@ A modern and responsive library website showcasing popular books, services, and 
 
 ---
 
-## 🔧 Features
+## Features
 
 - Clean, modern design
 - Popular books section
@@ -14,14 +14,14 @@ A modern and responsive library website showcasing popular books, services, and 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
 
 ---
 
-## 📬 Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/abhijeetwankhade424/)
 - [GitHub](https://github.com/Abhijeet-Wankhade)
