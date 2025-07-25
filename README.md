@@ -1,4 +1,4 @@
-# 📘 Creative Minds Library Website
+# Creative Minds Library Website
 
 A modern and responsive library website showcasing popular books, services, and contact information. Built using **HTML** and **CSS**.
 
